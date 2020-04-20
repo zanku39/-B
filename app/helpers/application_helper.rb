@@ -1,5 +1,6 @@
 module ApplicationHelper
-
+  
+  
   # ページごとにタイトルを返す
   def full_title(page_name = "") # メソッドと引数の定義
     base_title = "AttendanceApp" # 基本となるアプリケーション名を変数に代入
